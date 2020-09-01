@@ -54,3 +54,4 @@ The *Update Server* is an optional part of RoVer that can be enabled in `client.
     "mainLifeTime"      : Integer. Number of seconds the main process will run before closing. (Need a process manager if you want it to relaunch)
     "maxServerBindings" : Integer. Default unlimited. Maximum number of bindings allowed per server
 ```
+[![Run on Repl.it](https://repl.it/badge/github/evaera/RoVer)](https://repl.it/github/evaera/RoVer)
